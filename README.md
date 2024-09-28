@@ -1,17 +1,17 @@
-# hello_world
+# Identitas Diri
+Nama : Rama Pramudhita Bhaskara
 
-A new Flutter project.
+No : 20
 
-![alt text](images/01.png)
-## Getting Started
+NIM : 2241720128
 
-This project is a starting point for a Flutter application.
+# Langkah Praktikum
+## Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
+![Screenshot hello_world](images/01.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 4: Menerapkan Widget Dasar
+## Text Widget
+![Screenshot text widget](images/02.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Image Widget
+![Screenshot image widget](images/03.png)
